@@ -34,7 +34,7 @@ Top GITHUB Commands
 
     git status ->command lists all the files that have to be committed.
 
-9 ) git rm [file] ->deletes the file from your working directory and stages the deletion.
+    git rm [file] ->deletes the file from your working directory and stages the deletion.
 
     git log ->used to list the version history for the current branch.
     git log –follow[file] ->lists version history for a file, including the renaming of files also.
